@@ -1,0 +1,7 @@
+Name: @some mod@
+Path: @C:\Users\Vincent\Downloads\aoe3\somemod@
+Loadimage: @C:\Program Files (x86)\Microsoft Games\Age of Empires III\loading640.bmp@
+Executable: @age3y@
+Use Customizer: @false@
+Version: @1.0@
+ShowInfo: @False@
